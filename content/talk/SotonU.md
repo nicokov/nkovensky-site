@@ -8,7 +8,7 @@
   #time_end = 2030-06-01T18:30:00
 
   # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-  authors = ["Melina Vidoni", "Liza Dosso"]
+  authors = ["Nicolas Kovensky", "Gustavo Michalski", "Martin Schvellinger"]
 
   # Abstract and optional shortened version.
   abstract = "Deep Inelastic Scattering (DIS) has been crucial process in the study of hadrons in QCD over the last 40 years. In 2002, Polchinski and Strassler presented a holographic description of this process in the context of a theory with some features similar to QCD, focusing mainly on scalar targets. The supergravity description is accurate enough for moderate values of the Bjorken parameter x, but stringy effects have to be included at small-$x$, where the dominant process is given by graviton exchange, providing a dual picture for the Pomeron. However, in this set-up only the unpolarized structure functions are obtained. I will present an overview of the original set-up and discuss how to include the $g_1$ structure function for polarized spin-1/2 targets. The analytic results are shown to reproduce the recently available data for the proton's $g_1$ at very small-$x$ in a way consistent with previous phenomenological studies within the same model."
